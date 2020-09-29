@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e80332b7-c5d9-4d4f-9aa0-6b81b97ab93f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tests/CreateTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHibernate.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,8 +13,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1iCCWqMBEK9R5qI28XnADnGxFWn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,6 +41,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../finance-api" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -46,11 +68,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601402221007</updated>
-      <workItem from="1601402225386" duration="1256000" />
+      <workItem from="1601402225386" duration="1698000" />
+      <workItem from="1601404057422" duration="952000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="43" key="#Project_Structure" timestamp="1601404072665">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="43" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1601404072665" />
+    <state x="488" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1601404705837">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="61" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601404705837" />
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog" timestamp="1601404262147">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1601404262147" />
+    <state x="463" y="140" key="FileChooserDialogImpl" timestamp="1601403927168">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1601403927168" />
+    <state x="489" y="22" key="RollbackChangesDialog" timestamp="1601404243916">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="489" y="22" key="RollbackChangesDialog/0.0.1366.768@0.0.1366.768" timestamp="1601404243916" />
   </component>
 </project>
