@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e80332b7-c5d9-4d4f-9aa0-6b81b97ab93f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tests/CreateTableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHibernate.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +43,26 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RunManager">
+    <configuration name="CreateTableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.CreateTableTest" />
+      <module name="JavaHibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CreateTableTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -69,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601402221007</updated>
       <workItem from="1601402225386" duration="1698000" />
-      <workItem from="1601404057422" duration="952000" />
+      <workItem from="1601404057422" duration="1897000" />
     </task>
     <servers />
   </component>
@@ -103,6 +120,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1601403927168" />
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1601409471562">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601409471562" />
+    <state width="1323" height="172" key="GridCell.Tab.0.center" timestamp="1601409471547">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601409471547" />
+    <state width="1323" height="172" key="GridCell.Tab.0.left" timestamp="1601409471547">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601409471547" />
+    <state width="1323" height="172" key="GridCell.Tab.0.right" timestamp="1601409471547">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601409471547" />
     <state x="489" y="22" key="RollbackChangesDialog" timestamp="1601404243916">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
